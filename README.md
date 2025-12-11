@@ -61,9 +61,7 @@ A Firebase Project (for API keys)
 
 1. Clone the Repository
 
-git clone [https://github.com/your-username/PathFinder.git](https://github.com/your-username/PathFinder.git)
 cd PathFinder
-
 
 2. Frontend Setup
 
